@@ -88,19 +88,19 @@ background-size:cover;
 background-position:center;
 box-shadow:0 7px 10px rgba(0,0,0,0.15);}
 body[data-page="home"] .g1{
-background-image:url("index1.jpg");
+background-image:url("index01.jpg");
 }
 
 body[data-page="home"] .g2{
-background-image:url("index2.jpg");
+background-image:url("index02.jpg");
 }
 
 body[data-page="home"] .g3{
-background-image:url("index3.jpg");
+background-image:url("index03.jpg");
 }
 
 body[data-page="home"] .g4{
-background-image:url("index4.jpg");}
+background-image:url("index04.jpg");}
 body[data-page="home"] /* FOOTER */
 
 footer{margin-top:100px;
@@ -170,19 +170,19 @@ background-size:cover;
 background-position:center;
 box-shadow:0 7px 10px rgba(0,0,0,0.15);}
 body[data-page="study"] .g1{
-background-image:url("study1.jpg");
+background-image:url("study01.jpg");
 }
 
 body[data-page="study"] .g2{
-background-image:url("study2.jpg");
+background-image:url("study02.jpg");
 }
 
 body[data-page="study"] .g3{
-background-image:url("study3.jpg");
+background-image:url("study03.jpg");
 }
 
 body[data-page="study"] .g4{
-background-image:url("study4.jpg");
+background-image:url("study04.jpg");
 }
 
 body[data-page="study"]
@@ -246,19 +246,19 @@ background-position:center;
 box-shadow:0 7px 10px rgba(0,0,0,0.15);
 }
 body[data-page="sports"] .g1{
-background-image:url("sports1.jpg");
+background-image:url("sports01.jpg");
 }
 
 body[data-page="sports"] .g2{
-background-image:url("sports2.jpg");
+background-image:url("sports02.jpg");
 }
 
 body[data-page="sports"] .g3{
-background-image:url("sports3.jpg");
+background-image:url("sports03.jpg");
 }
 
 body[data-page="sports"] .g4{
-background-image:url("sports4.jpg");
+background-image:url("sports04.jpg");
 }
 body[data-page="sports"] form{margin-top:60px;
 background:white;
@@ -314,19 +314,19 @@ background-size:cover;
 background-position:center;
 box-shadow:0 7px 10px rgba(0,0,0,0.15);}
 body[data-page="art"] .g1{
-background-image:url("art1.jpg");
+background-image:url("art01.jpg");
 }
 
 body[data-page="art"] .g2{
-background-image:url("art2.jpg");
+background-image:url("art02.jpg");
 }
 
 body[data-page="art"] .g3{
-background-image:url("art3.jpg");
+background-image:url("art03.jpg");
 }
 
 body[data-page="art"] .g4{
-background-image:url("art4.jpg");
+background-image:url("art04.jpg");
 }
 body[data-page="art"] form{margin-top:60px;
 background:white;
