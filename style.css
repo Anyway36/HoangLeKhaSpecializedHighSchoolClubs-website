@@ -130,7 +130,12 @@ body[data-page="study"] /* HERO */
 color:white;
 text-align:center;
 padding:120px 20px;}
-body[data-page="study"] .hero h1{font-size:46px;}
+body[data-page="study"] .hero h1{font-size:48px;
+margin-bottom:15px;}
+body[data-page="study"] .hero p{font-size:18px;
+opacity:0.9;
+max-width:600px;
+margin:auto;}
 body[data-page="study"] /* CONTAINER */
 
 .container{width:80%;
@@ -214,6 +219,12 @@ body[data-page="sports"] .hero{background:linear-gradient(120deg,#16a34a,#4ade80
 color:white;
 text-align:center;
 padding:120px 20px;}
+body[data-page="sports"] .hero h1{font-size:48px;
+margin-bottom:15px;}
+body[data-page="sports"] .hero p{font-size:18px;
+opacity:0.9;
+max-width:600px;
+margin:auto;}
 body[data-page="sports"] .container{width:80%;margin:auto;margin-top:70px;}
 body[data-page="sports"] .clubs{display:flex;flex-wrap:wrap;gap:30px;}
 body[data-page="sports"] .club{background:white;
@@ -277,6 +288,12 @@ body[data-page="art"] .hero{background:linear-gradient(120deg,#9333ea,#c084fc);
 color:white;
 text-align:center;
 padding:120px 20px;}
+body[data-page="art"] .hero h1{font-size:48px;
+margin-bottom:15px;}
+body[data-page="art"] .hero p{font-size:18px;
+opacity:0.9;
+max-width:600px;
+margin:auto;}
 body[data-page="art"] .container{width:80%;margin:auto;margin-top:70px;}
 body[data-page="art"] .clubs{display:flex;flex-wrap:wrap;gap:30px;}
 body[data-page="art"] .club{background:white;
